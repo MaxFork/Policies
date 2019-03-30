@@ -8,7 +8,7 @@ If you're based in the EU or do business in the EU, yeah! GDPR has a long reach.
 
 ## Data Processing Addendum
 
-Contracts required! Processing EU personal data must be governed by a [GDPR-compliant contract](https://gdpr-info.eu/art-28-gdpr/). We provide a standard Data Processing Addendum (DPA) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed [upon request](mailto:support@trycourier.com).
+Contracts required! Processing EU personal data must be governed by a [GDPR-compliant contract](https://gdpr-info.eu/art-28-gdpr/). We provide a standard [Data Processing Addendum (DPA)](dpa.md) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed – [contact us](mailto:support@trycourier.com) for more information.
 
 Courier participates in the [EU-US and Swiss-US Privacy Shield Framework](privacy-shield.md) to safeguard the transfer of personal data to the US, meeting the GDPR requirement for adequate data protection laws.
 

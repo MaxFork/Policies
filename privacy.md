@@ -55,6 +55,6 @@ This Site is operated in the United States. If you are located in the European U
 
 ## Changes & questions
 
-Courier may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting [our support team][mailto:support@trycourier.com].
+Courier may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting [our support team](mailto:support@trycourier.com).
 
-Questions about this privacy policy? Please [get in touch][mailto:support@trycourier.com] and we’ll be happy to answer them!
+Questions about this privacy policy? Please [get in touch](mailto:support@trycourier.com) and we’ll be happy to answer them!

@@ -1,4 +1,4 @@
-# Courier Terms of Service
+# Courier's Terms of Service
 
 By using the Courier ("Service"), you are agreeing to be bound by the following terms and conditions ("Terms of Service").
 

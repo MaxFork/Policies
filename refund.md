@@ -1,4 +1,4 @@
-# Fair Refund Policy
+# Courier's Fair Refund Policy
 
 Bad refund policies are infuriating. You feel like the company is just trying to rip you off. We never want our customers to feel that way, so our refund policy is simple: If you're ever unhappy with Courier, for any reason, just contact [our support team][mailto:support@trycourier.com] and we'll take care of you.
 

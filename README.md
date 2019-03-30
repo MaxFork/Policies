@@ -4,11 +4,17 @@
 
 The rough print and the fine print. We try to make all our policies as clear, fair, and readable as possible.
 
+### General Policies
+
 * [Terms of Service](terms.md)
+* [Fair Refund Policy](refund.md)
 * [Privacy Policy](privacy.md)
+
+### Compliance
+
 * [General Data Protection Regulation (GDPR)](gdpr.md)
 * [EU-US and Swiss-US Privacy Shield Policy](privacy-shield.md)
-* [Fair Refund Policy](refund.md)
+
 
 ## License
 

@@ -2,6 +2,11 @@
 
 The rough print and the fine print. We try to make all our policies as clear, fair, and readable as possible.
 
+* [Terms of Service](terms.md)
+* [Privacy Policy](privacy-policy.md)
+* [General Data Protection Regulation (GDPR)](gdpr.md)
+* [EU-US and Swiss-US Privacy Shield Policy](privacy-shield.md)
+* [Fair Refund Policy](refund.md)
 
 ## Public Contributions Welcome
 
